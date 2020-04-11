@@ -1,2 +1,2 @@
 # 2D-Game-Engine
-Simple 2D Game Engine using SDL
+Simple 2D Game Engine written in C++ using SDL library
